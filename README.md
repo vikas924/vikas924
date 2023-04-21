@@ -1,5 +1,17 @@
+<h1 align="center"><b>Hi , I'm Vikas Chib </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..&hearts;++;Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 # 💫 About Me:
-🔭 I’m currently working on Web APIs.<br>🌱 I’m currently learning  JavaScript, React, Redux.<br>💬 Ask me about JavaScript, React, Redux<br>⚡ Fun fact In my free time, I love to play video games and I'm an avid fan of the [Call of Duty Franchise]
+
+🔭 I’m currently working on: Web APIs.<br>🌱 I’m currently learning:  JavaScript, React, Redux.<br>💬 Ask me about: JavaScript, React, Redux<br>⚡ Fun fact: In my free time, I love to play video games and I'm an avid fan of the [Call of Duty Franchise]
+
 
 
 ## 🌐 Socials:
@@ -15,9 +27,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikas924&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/vikas410190)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
@@ -26,5 +35,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vikas924&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
